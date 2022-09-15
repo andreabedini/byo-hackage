@@ -1,3 +1,7 @@
+# *Deprecated*
+
+**Superseeded by https://github.com/andreabedini/foliage-template**
+
 # BYO Hackage
 
 Just an experiment around Haskell packaging.
